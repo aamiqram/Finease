@@ -1,7 +1,5 @@
 # FinEase 💰
 
-![FinEase Banner](https://via.placeholder.com/1200x300/10b981/ffffff?text=FinEase+-+Personal+Finance+Management+App)
-
 ## 🌐 Live Demo
 **[Visit FinEase →](https://finese-client.web.app)**
 
@@ -207,19 +205,6 @@ Backend API runs on:
 ```
 http://localhost:5000
 ```
-
----
-
-## 📸 Screenshots
-
-### Dashboard
-![Dashboard](https://via.placeholder.com/800x400/10b981/ffffff?text=Add+Dashboard+Screenshot)
-
-### Transaction Management
-![Transactions](https://via.placeholder.com/800x400/10b981/ffffff?text=Add+Transactions+Screenshot)
-
-### Analytics & Reports
-![Analytics](https://via.placeholder.com/800x400/10b981/ffffff?text=Add+Analytics+Screenshot)
 
 ---
 
